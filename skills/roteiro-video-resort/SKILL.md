@@ -42,7 +42,8 @@ O vídeo é montado só com **cortes do material fornecido pelos resorts** (reso
 - Mensagens-base: "melhor condição/tarifa do ano", "pacotes completos com voo e hospedagem", "atendimento personalizado com especialistas", "reserve as férias da sua família", "unidades limitadas".
 - **Escassez só real:** quartos, prazos e descontos vêm da operadora. Nunca invente número.
 - CTA sempre para o WhatsApp ("Chame no WhatsApp", "Faça sua cotação"). Não dependa de grupo VIP: uma das lojas não tem.
-- Anúncio compartilhado pelas 3 lojas: nada de nome de consultor ou loja específica.
+- Anúncio compartilhado pelas lojas V5E: nada de nome de consultor ou loja específica.
+- Antes de escrever, leia o README da agência em `agencias/` (foco de produto, praça dos clientes, onde o anúncio roda, origem dos voos). Ex.: Mell e Bruno vende Nordeste saindo de Curitiba; Matriz vende resort com clientes em GO e mídia em SP.
 
 ## Narração (ElevenLabs)
 
@@ -65,6 +66,8 @@ Nome de arquivo: `[DESTINO]_[PERÍODO]_[FORMATO]_[TIPO]_[VERSÃO]` (ex.: `BlackF
 
 ## Exemplos
 
-- `campanhas/black-friday-2026/videos/01-pre-black.md`
-- `campanhas/black-friday-2026/videos/02-black-friday.md`
-- `campanhas/black-friday-2026/videos/03-oferta-do-dia.md`
+- `rede-v5e/campanhas/black-friday-2026/videos/01-pre-black.md`
+- `rede-v5e/campanhas/black-friday-2026/videos/02-black-friday.md`
+- `rede-v5e/campanhas/black-friday-2026/videos/03-oferta-do-dia.md`
+
+Roteiros de campanha da rede vão em `rede-v5e/campanhas/<campanha>/videos/`; roteiros exclusivos de uma agência vão em `agencias/<agencia>/campanhas/<campanha>/videos/`.

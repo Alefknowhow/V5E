@@ -6,7 +6,8 @@ Plano completo (as duas agências): https://claude.ai/artifact/8bDqhhSnjye73TuS6
 
 - **Oferta:** resorts all inclusive em pacote aéreo (voo + hospedagem), na melhor tarifa do ano.
 - **Público:** quem já é cliente de resort all inclusive, principalmente famílias e grupos. Não explicamos o que é all inclusive; vendemos tarifa, escolha certa e atendimento de especialista.
-- **Anúncio compartilhado** pelas 3 lojas, sem depender de grupo VIP (uma loja não tem). O canal é o WhatsApp.
+- **Anúncio compartilhado** pelas 3 lojas V5E ([Matriz](../../../agencias/v5e-matriz/README.md), [Ana e Anderson](../../../agencias/v5e-ana-anderson/README.md), [Mell e Bruno](../../../agencias/v5e-mell-bruno/README.md)), sem depender de grupo VIP (uma loja não tem). O canal é o WhatsApp.
+- **Geografia:** Matriz e Ana e Anderson têm clientes em Goiás e anúncios rodando em SP. Mell e Bruno vende Nordeste saindo de Curitiba e precisa de versão própria dos vídeos.
 - **Escassez sempre real:** quartos e prazos vêm do bloqueio da operadora.
 
 ## Calendário
