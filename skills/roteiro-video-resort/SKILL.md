@@ -38,8 +38,8 @@ O vídeo é montado só com **cortes do material fornecido pelos resorts** (reso
 
 ## Copy
 
-- Ganchos que funcionam: "Black Friday", "Esquenta Black Friday", "Oferta do dia", "Últimas unidades", "Seu resort all inclusive".
-- Mensagens-base: "melhor condição/tarifa do ano", "pacotes completos com voo e hospedagem", "atendimento personalizado com especialistas", "reserve as férias da sua família", "unidades limitadas".
+- Ganchos que funcionam: "Black Friday", "Black November" (fase antecipada de novembro), "Oferta do dia", "Últimas unidades", "Seu resort all inclusive", "Agente 5 estrelas".
+- Mensagens-base: "melhor condição/tarifa do ano", "pacotes completos com voo e hospedagem", "atendimento personalizado com especialistas", "tenha um agente 5 estrelas cuidando da sua viagem", "para viver momentos inesquecíveis", "reserve as férias da sua família", "unidades limitadas".
 - **Escassez só real:** quartos, prazos e descontos vêm da operadora. Nunca invente número.
 - CTA sempre para o WhatsApp ("Chame no WhatsApp", "Faça sua cotação"). Não dependa de grupo VIP: uma das lojas não tem.
 - Anúncio compartilhado pelas lojas V5E: nada de nome de consultor ou loja específica.
@@ -50,6 +50,7 @@ O vídeo é montado só com **cortes do material fornecido pelos resorts** (reso
 - 2 a 3 palavras por segundo; vídeo de 15s comporta ~35 palavras.
 - Números e horas por extenso, como devem ser falados ("dez vezes de mil e duzentos", "vinte e três e cinquenta e nove").
 - Teste 2 ou 3 vozes; o resultado do anúncio decide.
+- A tela nunca repete a narração: legenda e card dizem algo complementar ao que a voz diz no mesmo tempo.
 - Toda peça tem versão **com e sem narração**. Sem narração: cards +0,2s, trilha mais alta, impacto sonoro em todo card.
 
 ## Formato de entrega
