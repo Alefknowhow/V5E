@@ -22,8 +22,11 @@ agencias/
 rede-v5e/
   campanhas/             campanhas compartilhadas pelas lojas Viagens 5 Estrelas
     black-friday-2026/
+  design-system/         padrão visual dos templates (carrossel Instagram)
+  carrosseis/            carrosséis diários gerados do blog + histórico
 skills/
   roteiro-video-resort/  como criar roteiros de vídeo no padrão V5E
+  carrossel-blog/        como transformar um post de blog em carrossel
 ```
 
 Regra: o que vale para uma agência só fica na pasta dela; o que é da rede Viagens 5 Estrelas inteira fica em `rede-v5e/`.
