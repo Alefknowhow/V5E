@@ -69,5 +69,6 @@ Nome de arquivo: `[DESTINO]_[PERÍODO]_[FORMATO]_[TIPO]_[VERSÃO]` (ex.: `BlackF
 - `rede-v5e/campanhas/black-friday-2026/videos/01-pre-black.md`
 - `rede-v5e/campanhas/black-friday-2026/videos/02-black-friday.md`
 - `rede-v5e/campanhas/black-friday-2026/videos/03-oferta-do-dia.md`
+- `rede-v5e/campanhas/black-friday-2026/videos/04-institucional.md` (institucional, com direção de locução de propaganda)
 
 Roteiros de campanha da rede vão em `rede-v5e/campanhas/<campanha>/videos/`; roteiros exclusivos de uma agência vão em `agencias/<agencia>/campanhas/<campanha>/videos/`.

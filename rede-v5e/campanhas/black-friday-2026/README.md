@@ -17,6 +17,7 @@ Plano completo (as duas agências): https://claude.ai/artifact/8bDqhhSnjye73TuS6
 | 10 a 26/11 | Esquenta Black Friday | 01-pre-black |
 | 27 a 30/11 | Black Friday | 02-black-friday |
 | Todo dia | Promoção diária da operadora | 03-oferta-do-dia (orgânico: status, Stories, lista de transmissão, grupo de quem tiver) |
+| 10 a 30/11 | Institucional da rede | 04-institucional (topo de funil no anúncio + peça fixa no orgânico) |
 
 ## Verba (R$ 1.000 na conta)
 
